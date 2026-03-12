@@ -1,5 +1,5 @@
-  # 💫 About Me:
-Software Engineering Enthusiast | <br>S1 Software Engineering Student at Telkom University Bandung | <br>Passionate about Web Development, Problem Solving & Tech Innovation | Currently Learning and Building Small Projects
+# 💫 About Me:
+Software Engineering Enthusiast | S1 Software Engineering Student at Telkom University Bandung | Passionate about Web Development, Problem Solving & Tech Innovation | Currently Learning and Building Small Projects
 
 
 ## 🌐 Socials:
