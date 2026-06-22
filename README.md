@@ -5,12 +5,14 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/muhammad-febryan-akba" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/febry4nz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="316unpd4rg7fg52f2y5glyqohzpi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  <a href="755752603878686730" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
@@ -28,6 +30,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
@@ -35,35 +39,11 @@
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/iyn.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=iyn.&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@i/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@i/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@i/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@i/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@i/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@i/2" alt="Medium post 3"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
 
 ###
