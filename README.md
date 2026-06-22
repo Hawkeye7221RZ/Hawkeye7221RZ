@@ -1,21 +1,65 @@
-# 💫 About Me:
-I'm passionate about technology and problem-solving that can make a real impact in the digital age. From joining an IT team to managing projects and designing websites, I've learned the importance of clearly expressing my ideas—especially in the world of technology. For me, being an informatics student means more than just following trends. It's about using digital platforms to connect, share, and inspire. I'm always eager to learn, grow, and contribute in the technology era.
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/febry4nz)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nnoc712) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfebryanakbar@gmail.com) 
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hawkeye7221RZ&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hawkeye7221RZ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hawkeye7221RZ&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=Hawkeye7221RZ&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm passionate about technology and problem-solving that can make a real impact in the digital age. From joining an IT team to managing projects and designing websites, I've learned the importance of clearly expressing my ideas—especially in the world of technology. For me, being an informatics student means more than just following trends. It's about using digital platforms to connect, share, and inspire. I'm always eager to learn, grow, and contribute in the technology era.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/iyn.">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=iyn.&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
