@@ -1,3 +1,7 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 I'm passionate about technology and problem-solving that can make a real impact in the digital age. From joining an IT team to managing projects and designing websites, I've learned the importance of clearly expressing my ideas—especially in the world of technology. For me, being an informatics student means more than just following trends. It's about using digital platforms to connect, share, and inspire. I'm always eager to learn, grow, and contribute in the technology era.
 ## 🌐 Socials:
